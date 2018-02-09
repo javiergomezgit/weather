@@ -100,7 +100,7 @@
 					0D9638BF1BF64DAD00364F5C = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = SJK4QJY486;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 0920;
 					};
 				};
 			};
@@ -261,7 +261,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jdev.-1Weather";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -277,7 +278,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jdev.-1Weather";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
